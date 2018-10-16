@@ -9,3 +9,5 @@ Put text in **bold**
 
 * bullet1
 * bullet2
+
+An edit made in web browser
